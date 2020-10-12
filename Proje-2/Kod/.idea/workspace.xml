@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75ad7eae-196e-4d5a-a4bb-d1c0b78edbf2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TCojWZlSxMqtdL2UQM0fyQggSe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pokemonKartOyunu.Main" />
+      <module name="PokemonKartOyunu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75ad7eae-196e-4d5a-a4bb-d1c0b78edbf2" name="Default Changelist" comment="" />
+      <created>1572973573909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572973573909</updated>
+      <workItem from="1572973576266" duration="3061000" />
+      <workItem from="1572985622145" duration="66000" />
+      <workItem from="1573044070216" duration="1914000" />
+      <workItem from="1573140258884" duration="110000" />
+      <workItem from="1573146678310" duration="2797000" />
+      <workItem from="1573163811688" duration="298000" />
+      <workItem from="1573165346679" duration="39000" />
+      <workItem from="1573171411535" duration="398000" />
+      <workItem from="1573234387918" duration="2481000" />
+      <workItem from="1573236888338" duration="370000" />
+      <workItem from="1573278852479" duration="12000" />
+      <workItem from="1573926138310" duration="2847000" />
+      <workItem from="1574187743999" duration="784000" />
+      <workItem from="1574195107467" duration="7325000" />
+      <workItem from="1574329277604" duration="1053000" />
+      <workItem from="1574343057774" duration="11000" />
+      <workItem from="1574368323982" duration="22000" />
+      <workItem from="1574517051655" duration="18934000" />
+      <workItem from="1574605734117" duration="4491000" />
+      <workItem from="1574632536441" duration="563000" />
+      <workItem from="1574689842212" duration="5997000" />
+      <workItem from="1574709826785" duration="5248000" />
+      <workItem from="1574761184136" duration="700000" />
+      <workItem from="1574762114178" duration="86000" />
+      <workItem from="1574774237757" duration="75000" />
+      <workItem from="1574774405151" duration="7361000" />
+      <workItem from="1574785175395" duration="116000" />
+      <workItem from="1574803204121" duration="1692000" />
+      <workItem from="1574963236840" duration="69000" />
+      <workItem from="1574963318245" duration="82000" />
+      <workItem from="1575044864270" duration="311000" />
+      <workItem from="1575061864087" duration="12000" />
+      <workItem from="1575061909108" duration="749000" />
+      <workItem from="1575065373288" duration="1669000" />
+      <workItem from="1575141040647" duration="6047000" />
+      <workItem from="1575148375396" duration="732000" />
+      <workItem from="1575149410076" duration="336000" />
+      <workItem from="1575149761625" duration="49000" />
+      <workItem from="1583965274151" duration="53000" />
+      <workItem from="1585601113245" duration="721000" />
+      <workItem from="1586207034064" duration="660000" />
+      <workItem from="1586379450297" duration="302000" />
+      <workItem from="1586380995926" duration="56000" />
+      <workItem from="1602531252110" duration="1442000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="336" key="GridCell.Tab.0.bottom" timestamp="1602532703521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602532703521" />
+    <state width="1877" height="336" key="GridCell.Tab.0.center" timestamp="1602532703521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602532703521" />
+    <state width="1877" height="336" key="GridCell.Tab.0.left" timestamp="1602532703521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602532703521" />
+    <state width="1877" height="336" key="GridCell.Tab.0.right" timestamp="1602532703521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602532703521" />
+  </component>
+</project>
