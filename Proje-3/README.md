@@ -1,4 +1,4 @@
-POKEMON KART OYUNU
+BAĞLI LİSTE UYGULAMASI
 
 Proje isterleri Proje-Tanimi.pdf dosyasında bulunmaktadır.
 
